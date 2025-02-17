@@ -49,11 +49,10 @@ receiver_emails = [
 
 # CC emails
 cc_emails = [
-    "amiteshhsingh@gmail.com",
     "amitesh.singh@coredge.io"
 ]
 
-email_password = "Seniors@10"  # Replace with your Outlook app password
+email_password = "xyz"  # Replace with your Outlook app password
 
 subject = "CPU Usage Report"
 
