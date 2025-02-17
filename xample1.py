@@ -120,7 +120,7 @@ receiver_emails = ["amitesh.singh@coredge.io"]
                 #    "raunak@coredge.io"
 # cc_emails = ["cellstack-support@coredge.io"]
 cc_emails = ["amitesh.singh@coredge.io"]
-email_password = "Seniors@10"
+email_password = "xyz"
 subject = "Daily Monitoring Report"
 
 input_excel_file = "Daily_monitoring_report.xlsx"
